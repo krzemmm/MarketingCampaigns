@@ -1,4 +1,4 @@
-# Marketing_Campaigns PowerBI
+# Marketing Campaigns PowerBI
 
 ## Project description:
 
@@ -15,4 +15,4 @@ What Education group is most successful in Campaign 2?
 
 How is the development over time for Campaign 1 & 2?
 
-## Let's clean, transform and visualize the data to answer the questions
+## Let's clean, transform and visualize the data in PowerBI to answer the questions
