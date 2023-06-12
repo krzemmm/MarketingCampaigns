@@ -15,4 +15,4 @@ What Education group is most successful in Campaign 2?
 
 How is the development over time for Campaign 1 & 2?
 
-## Let's visualize the data to answer the questions
+## Let's clean, transform and visualize the data to answer the questions
