@@ -13,3 +13,5 @@ What Education group is most successful in Campaign 1?
 What Education group is most successful in Campaign 2?
 
 How is the development over time for Campaign 1 & 2?
+
+## Let's visualize the data to anserw the questions
