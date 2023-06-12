@@ -3,7 +3,8 @@
 ## Project description:
 
 The marketing team wants us to analyse the performance 5 different campaigns they have made. 
-The data of these 5 campaings is split into 3 different files because - this is just because the marketing team gets always three files from their IT system. 
+The data of these 5 campaings is split into 3 different files because - this is just because the marketing team gets always three files from their IT system.
+To answer the questions below, two additional files are required: the customer data and the sales data.
 
 
 
@@ -14,4 +15,4 @@ What Education group is most successful in Campaign 2?
 
 How is the development over time for Campaign 1 & 2?
 
-## Let's visualize the data to anserw the questions
+## Let's visualize the data to answer the questions
