@@ -1,4 +1,4 @@
-# Marketing_Campaigns
+# Marketing_Campaigns PowerBI
 
 ## Project description:
 
